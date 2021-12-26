@@ -1,5 +1,5 @@
 # pokemon_gamer
-
+#Link del juego https://pokemongamer95.netlify.app/
 ## Project setup
 ```
 npm install
